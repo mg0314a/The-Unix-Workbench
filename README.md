@@ -1,6 +1,6 @@
-## James Bond
+# James Bond
 
-# Activities
+## Activities
 
 Mr. Bond is in His Majesty's Service.
 
