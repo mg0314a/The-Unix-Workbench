@@ -1,28 +1,28 @@
-#This is a large heading
+## James Bond
 
-## This is a smaller heading
+# Activities
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Mr. Bond is in His Majesty's Service.
 
-- This is
-- an unordered
-- list
+### Hobbies
 
-1. This is
-2. an ordered
-3. list
+- drinking
+- cards
 
-Here is `some code` in the middle of a sentence.
+### Movies
 
-```
-This is
-a block
-of code
-```
+Three of Mr. Bond's movies are:
 
-Here is hwo you make [a link](https://www.wikipedia.org/).
+- *Goldfinger*
+- i dunno
+- i dunno sequel
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Mr. Bond has been played by
+
+1. Sean Connery
+2. that skinny Brit
+3. dunno
+
+### Contact
+
+The best way to get in touch with James is [on Twitter](https://twitter.com/007).
